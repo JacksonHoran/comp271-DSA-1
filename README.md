@@ -11,7 +11,7 @@ This course introduced me to many foundational topics in programming like time a
 **Tech and Resources Used:** Python, Stack Overflow, GeeksForGeeks, LLMs(when clarified in assignment instructions, conceptual questions, and debugging) and, VScode
 
 ## Contact Me:
-Heres a link to my resume and LinkedIn page as well as my personal email:
+Heres a link to my resume LinkedIn and my email addresses:
 
 [**LinkedIn**](https://www.linkedin.com/in/jacksonhoran/)
 
